@@ -2,7 +2,7 @@ import './App.Module.css';
 
 function App() {
   return (
-    <div className={}><h1>Hello World</h1></div>
+    <div className="App"><h1>Hello World</h1></div>
   );
 }
 
